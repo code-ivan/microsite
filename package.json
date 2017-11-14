@@ -1,7 +1,9 @@
 {
   "name": "react-app",
+  "description": "React app using express with redux",  
+  "author": "Ivan <ivo7690@hotmail.com>",
   "version": "0.0.1",
-  "private": true,
+  "license": "MIT",
   "scripts": {
     "start:client": "react-scripts start",
     "start": "node server",
